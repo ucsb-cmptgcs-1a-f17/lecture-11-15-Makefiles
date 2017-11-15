@@ -1,3 +1,16 @@
+# exectuables
+
+hello
+main1
+main2
+main3
+
+# output file
+file.txt
+
+# emacs backup files
+*~
+
 # Prerequisites
 *.d
 
