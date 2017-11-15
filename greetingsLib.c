@@ -1,21 +1,19 @@
 // This is a library of greeting functions
 
-#include <iostream>
-using std::cout;
-using std::endl;
+#include <stdio.h>
 
 #include "greetLib.h"
 
 void russian() {
-  cout << "Zdrastutsie" << endl;
+  printf("Zdrastutsie" );
 }
 
 void farsi() {
-  cout << "Salaam" << endl;
+  printf("Salaam" );
 }
 
 void italian() {
-  cout << "Buon Giorno" << endl;
+  printf("Buon Giorno" );
 }
 
 /*
