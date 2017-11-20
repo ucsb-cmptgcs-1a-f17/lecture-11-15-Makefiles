@@ -1,5 +1,8 @@
 # lecture-11-15-Makefiles
 
+* https://github.com/ucsb-cmptgcs-1a-f17/ucsb-cmptgcs-1a-f17.github.io/blob/master/_lectures/lect05.md
+
+# the ls-EXAMPLE-EVIL-TROJAN
 
 The ls-EXAMPLE-EVIL-TROJAN is the reason we do NOT typically
 put . in our unix PATH.
